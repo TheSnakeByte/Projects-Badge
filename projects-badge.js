@@ -44,7 +44,7 @@ function main() {
   }
   </style>
   
-  <a id="replit-badge" href="https://about-me-snakebytes-portfolio.snakebyte.repl.co/#projects" target="_blank" rel="noopener noreferrer">
+  <a id="replit-badge" href="https://snakebyte.repl.co/#projects" target="_blank" rel="noopener noreferrer">
 
   <svg
   width="186"
